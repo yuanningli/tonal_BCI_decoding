@@ -4,9 +4,9 @@ This repository contains scripts and files for the analysis of our work entitled
 ## Contents
 
 ### Jupyter Notebooks
-- **preprocessing.ipynb**: This notebook is dedicated to data preprocessing. It includes the selection of discriminative and response electrodes, as well as the generation of label matrices.
+- **preprocessing.ipynb**: This notebook is dedicated to data preprocessing. It includes the selection of discriminative and responsive electrodes, as well as the generation of label matrices.
 
-- **evaluation.ipynb**: This notebook focuses on the final evaluation of the project.
+- **main.ipynb**: This notebook focuses on the final evaluation of the project.
 
 - **transfers_matrix.csv**: This is external transfer matrix collected from the CCL corpus for language model purposes.
 
@@ -28,7 +28,7 @@ This repository contains scripts and files for the analysis of our work entitled
 - The **hyperopt** folder contains Jupyter notebooks for hyperparameter tuning.
 
 ## How to Use
-Please refer to the respective Jupyter notebooks for detailed information on how to use and execute the scripts. Ensure that you have the necessary permissions to access the raw data in the **Raw** folder.
+Please refer to the corresponding Jupyter notebooks for detailed information on how to use and execute the scripts. Ensure that you have the necessary permissions to access the raw data in the **Raw** folder.
 
 ## Contributors
 - Daohan Zhang1,2,3#,
@@ -53,7 +53,7 @@ Please refer to the respective Jupyter notebooks for detailed information on how
 6.School of International Chinese Language Education, Beijing Normal University, Beijing 100875, China
 7.Institute of Modern Languages and Linguistics, Fudan University, Shanghai 200433, China 
 8.State Key Laboratory of Advanced Medical Materials and Devices, ShanghaiTech University, Shanghai 201210, China
-9MOE Frontiers Center for Brain Science, Huashan Hospital, Fudan University, Shanghai 200040, China 
+9. MOE Frontiers Center for Brain Science, Huashan Hospital, Fudan University, Shanghai 200040, China 
 
 # These authors contributed equally to this work.
 * Corresponding authors: Jinsong Wu (wujinsong@huashan.org.cn), Junfeng Lu (junfeng_lu@fudan.edu.cn), Yuanning Li (liyn2@shanghaitech.edu.cn) 
