@@ -56,6 +56,6 @@ Please refer to the respective Jupyter notebooks for detailed information on how
 9MOE Frontiers Center for Brain Science, Huashan Hospital, Fudan University, Shanghai 200040, China 
 
 # These authors contributed equally to this work.
-* Corresponding authors: Jinsong Wu (wujinsong@huashan.org.cn), Junfeng Lu (junfeng_lu@fudan.edu.cn), Yuanning Li (liyn2@shanghaitech.edu.cn¬) 
+* Corresponding authors: Jinsong Wu (wujinsong@huashan.org.cn), Junfeng Lu (junfeng_lu@fudan.edu.cn), Yuanning Li (liyn2@shanghaitech.edu.cn) 
 
 Feel free to reach out if you have any questions or feedback!
