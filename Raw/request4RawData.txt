@@ -1,0 +1,12 @@
+This folder should have included those 8 files which are high gamma band of 256 electrodes of 4 blocks(.mat files) and correcponding phonetic transcription(.TextGrid files) of PA4, which named:
+
+B1_70_150.mat
+B2_70_150.mat
+B3_70_150.mat
+B4_70_150.mat
+B1sound_mat.TextGrid
+B2sound_mat.TextGrid
+B3sound_mat.TextGrid
+B4sound_mat.TextGrid
+
+Raw data relevant to this study are accessible from the authors under restricted access according to our clinical trial protocol, which enables us to share de-identified information with researchers from other institutions but prohibits us from making it publicly available. Access can be granted upon reasonable request if you contact corrsponding authors via email. Any data provided must be kept confidential and cannot be shared with others unless approval is obtained. To protect the participant’s anonymity, any information that could identify him or her will not be part of the shared data. 
