@@ -1,5 +1,5 @@
 ## Overview
-This repository contains scripts and files for the analysis of our work entitled “A brain-to-text framework of decoding natural tonal sentences”. The following sections provide an overview of the contents and organization.
+This repository contains scripts and files for our work entitled “A brain-to-text framework for decoding natural tonal sentences”. The following sections provide an overview of the contents and organization.
 
 ## Contents
 
@@ -42,8 +42,8 @@ Please refer to the corresponding Jupyter notebooks for detailed information on 
 - Luyao Chen6,
 - Kunyu Xu7,
 - Yuanning Li4,8*,
-- Junfeng Lu1,2,3,7,9*,
-- Jinsong Wu1,2,3*
+- Junfeng Lu1,2,3,7,9*.
+
 
 1.Department of Neurosurgery, Huashan Hospital, Shanghai Medical College, Fudan University, Shanghai 200040, China
 2.Shanghai Key Laboratory of Brain Function Restoration and Neural Regeneration, Shanghai 200040, China
@@ -56,6 +56,6 @@ Please refer to the corresponding Jupyter notebooks for detailed information on 
 9. MOE Frontiers Center for Brain Science, Huashan Hospital, Fudan University, Shanghai 200040, China 
 
 # These authors contributed equally to this work.
-* Corresponding authors: Jinsong Wu (wujinsong@huashan.org.cn), Junfeng Lu (junfeng_lu@fudan.edu.cn), Yuanning Li (liyn2@shanghaitech.edu.cn) 
+* Corresponding authors: Junfeng Lu (junfeng_lu@fudan.edu.cn), Yuanning Li (liyn2@shanghaitech.edu.cn) 
 
 Feel free to reach out if you have any questions or feedback!
