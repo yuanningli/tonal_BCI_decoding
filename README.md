@@ -31,9 +31,9 @@ This repository contains scripts and files for our work entitled “A brain-to-t
 Please refer to the corresponding Jupyter notebooks for detailed information on how to use and execute the scripts. Ensure that you have the necessary permissions to access the raw data in the **Raw** folder.
 
 ## Contributors
-- Daohan Zhang1,2,3#,
-- Zhenjie Wang4#,
-- Youkun Qian1,2,3#,
+- Daohan Zhang1,2,3\#,
+- Zhenjie Wang4\#,
+- Youkun Qian1,2,3\#,
 - Zehao Zhao1,2,3,
 - Yan Liu1,2,3,
 - Xiaotao Hao1,2,3,
@@ -41,8 +41,8 @@ Please refer to the corresponding Jupyter notebooks for detailed information on 
 - Honglin Zhu5,
 - Luyao Chen6,
 - Kunyu Xu7,
-- Yuanning Li4,8*,
-- Junfeng Lu1,2,3,7,9*.
+- Yuanning Li4,8\*,
+- Junfeng Lu1,2,3,7,9\*.
 
 
 1.Department of Neurosurgery, Huashan Hospital, Shanghai Medical College, Fudan University, Shanghai 200040, China
@@ -55,7 +55,7 @@ Please refer to the corresponding Jupyter notebooks for detailed information on 
 8.State Key Laboratory of Advanced Medical Materials and Devices, ShanghaiTech University, Shanghai 201210, China
 9. MOE Frontiers Center for Brain Science, Huashan Hospital, Fudan University, Shanghai 200040, China 
 
-# These authors contributed equally to this work.
-* Corresponding authors: Junfeng Lu (junfeng_lu@fudan.edu.cn), Yuanning Li (liyn2@shanghaitech.edu.cn) 
+\# These authors contributed equally to this work.
+\* Corresponding authors: Junfeng Lu (junfeng_lu@fudan.edu.cn), Yuanning Li (liyn2@shanghaitech.edu.cn) 
 
 Feel free to reach out if you have any questions or feedback!
